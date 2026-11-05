@@ -45,5 +45,5 @@ public:
 
     void RenderSimulationScene(const std::vector<SimulatedEntity>& entities, const RenderSettings& settings);
     void RenderRadarOverlay(const std::vector<SimulatedEntity>& entities, const RenderSettings& settings);
-    void RenderESPDrawings(const std::vector<SimulatedEntity>& entities, the RenderSettings& settings);
+    void RenderESPDrawings(const std::vector<SimulatedEntity>& entities, const RenderSettings& settings);
 };
