@@ -1,0 +1,36 @@
+# Build
+build/
+out/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+*.vcxproj*
+*.sln
+*.user
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+.vs/
+.vscode/
+.idea/
+*.obj
+*.pdb
+*.exe
+*.dll
+*.lib
+*.a
+*.so
+*.dylib
+bin/
+lib/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+*.swp
+*~
